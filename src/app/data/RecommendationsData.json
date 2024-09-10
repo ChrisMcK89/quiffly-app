@@ -1,0 +1,225 @@
+{
+    "recommendations": [
+      {
+        "question": "Hair Type",
+        "answer": "Straight",
+        "stylingGoal": "Volume",
+        "concern": "None",
+        "products": {
+          "product1": "Volumizing Hair Powder",
+          "product2": "Sea Salt Spray",
+          "product3": "Texturizing Cream",
+          "product4": "Lightweight Gel",
+          "product5": "Styling Mousse"
+        },
+        "affiliateLink": "Affiliate Link 1"
+      },
+      {
+        "question": "Hair Type",
+        "answer": "Wavy",
+        "stylingGoal": "Texture",
+        "concern": "Frizz",
+        "products": {
+          "product1": "Curl Defining Cream",
+          "product2": "Anti-Frizz Serum",
+          "product3": "Sea Salt Spray",
+          "product4": "Styling Cream",
+          "product5": "Hydrating Hair Oil"
+        },
+        "affiliateLink": "Affiliate Link 2"
+      },
+      {
+        "question": "Scalp Condition",
+        "answer": "Oily",
+        "stylingGoal": "Hold",
+        "concern": "None",
+        "products": {
+          "product1": "Matte Hair Clay",
+          "product2": "Strong Hold Gel",
+          "product3": "Oil-Control Shampoo",
+          "product4": "Sea Salt Spray",
+          "product5": "Lightweight Conditioner"
+        },
+        "affiliateLink": "Affiliate Link 3"
+      },
+      {
+        "question": "Scalp Condition",
+        "answer": "Dry",
+        "stylingGoal": "Smoothness",
+        "concern": "Thinning",
+        "products": {
+          "product1": "Moisturizing Shampoo",
+          "product2": "Nourishing Hair Cream",
+          "product3": "Hydrating Serum",
+          "product4": "Scalp Treatment",
+          "product5": "Leave-in Conditioner"
+        },
+        "affiliateLink": "Affiliate Link 4"
+      },
+      {
+        "question": "Styling Product",
+        "answer": "Pomade",
+        "stylingGoal": "Strong Hold",
+        "concern": "None",
+        "products": {
+          "product1": "Matte Finish Pomade",
+          "product2": "High Shine Pomade",
+          "product3": "Firm Hold Gel",
+          "product4": "Hair Wax",
+          "product5": "Hair Spray"
+        },
+        "affiliateLink": "Affiliate Link 5"
+      },
+      {
+        "question": "Concern",
+        "answer": "Balding",
+        "stylingGoal": "Prevention",
+        "concern": "Thinning",
+        "products": {
+          "product1": "Hair Regrowth Treatment",
+          "product2": "Thickening Shampoo",
+          "product3": "Biotin Supplement",
+          "product4": "Scalp Serum",
+          "product5": "Hair Fibers"
+        },
+        "affiliateLink": "Affiliate Link 6"
+      },
+      {
+        "question": "Hair Type",
+        "answer": "Straight",
+        "scalpCondition": "Oily",
+        "stylingGoal": "Volume",
+        "concern": "Yes",
+        "products": {
+          "product1": "Baxter of California Clay Pomade",
+          "product2": "Hanz de Fuko Claymation",
+          "product3": "Kérastase Densifique Bain Densité",
+          "product4": "Rogaine 5% Minoxidil Foam",
+          "product5": "Bumble and bumble Thickening Spray"
+        },
+        "affiliateLink": "Link 1"
+      },
+      {
+        "question": "Hair Type",
+        "answer": "Wavy",
+        "scalpCondition": "Dry",
+        "stylingGoal": "Texture",
+        "concern": "Preventative",
+        "products": {
+          "product1": "Ouai Matte Pomade",
+          "product2": "Jack Black Sleek Finish Texture Cream",
+          "product3": "Aveda Invati Advanced Scalp Revitalizer",
+          "product4": "Pura D'or Anti-Hair Loss Shampoo",
+          "product5": "Oribe Dry Texturizing Spray"
+        },
+        "affiliateLink": "Link 2"
+      },
+      {
+        "question": "Hair Type",
+        "answer": "Curly",
+        "scalpCondition": "Normal",
+        "stylingGoal": "Hold",
+        "concern": "No",
+        "products": {
+          "product1": "American Crew Forming Cream",
+          "product2": "Moroccanoil Hydrating Styling Cream",
+          "product3": "Nioxin Scalp Therapy Conditioner",
+          "product4": "Redken Brews Thickening Shampoo",
+          "product5": "Kevin Murphy Hair Resort Spray"
+        },
+        "affiliateLink": "Link 3"
+      },
+      {
+        "question": "Hair Type",
+        "answer": "Coily",
+        "scalpCondition": "Sensitive",
+        "stylingGoal": "Shine",
+        "concern": "Yes",
+        "products": {
+          "product1": "SheaMoisture Coconut & Hibiscus Curl",
+          "product2": "Kiehl's Silk Groom Serum",
+          "product3": "Briogeo Scalp Revival Treatment",
+          "product4": "Viviscal Hair Growth Supplements",
+          "product5": "Ouai Rose Hair & Body Oil"
+        },
+        "affiliateLink": "Link 4"
+      },
+      {
+        "question": "Hair Type",
+        "answer": "Straight",
+        "hairLength": "Short",
+        "texture": "Fine",
+        "scalpCondition": "Oily",
+        "stylingGoal": "Volume",
+        "hairConcerns": "Thinning",
+        "productPreference": "Natural",
+        "products": {
+          "product1": "Sachajuan Ocean Mist Hair Cream",
+          "product2": "Kérastase Densifique Scalp Treatment",
+          "product3": "Christophe Robin Cleansing Purifying Scrub",
+          "product4": "Living Proof Full Dry Volume Blast",
+          "product5": "Nioxin System 1 Cleanser Shampoo",
+          "product6": "R+Co Dallas Thickening Spray"
+        },
+        "affiliateLink": "Link 5"
+      },
+      {
+        "question": "Hair Type",
+        "answer": "Wavy",
+        "hairLength": "Medium",
+        "texture": "Medium",
+        "scalpCondition": "Dry",
+        "stylingGoal": "Texture",
+        "hairConcerns": "Frizz",
+        "productPreference": "No Preference",
+        "products": {
+          "product1": "Oribe Rough Luxury Molding Wax",
+          "product2": "Bumble and bumble Hairdresser’s Invisible Oil",
+          "product3": "Ouai Repair Shampoo",
+          "product4": "Kérastase Discipline Fondant Fluidealiste Conditioner",
+          "product5": "Virtue Recovery Shampoo",
+          "product6": "IGK Beach Club Texture Spray"
+        },
+        "affiliateLink": "Link 6"
+      },
+      {
+        "question": "Hair Type",
+        "answer": "Curly",
+        "hairLength": "Long",
+        "texture": "Thick",
+        "scalpCondition": "Sensitive",
+        "stylingGoal": "Hold",
+        "hairConcerns": "Damage",
+        "productPreference": "Chemical",
+        "products": {
+          "product1": "American Crew Fiber",
+          "product2": "Redken Extreme Anti-Snap Treatment",
+          "product3": "Paul Mitchell Tea Tree Special Shampoo",
+          "product4": "Moroccanoil Intense Hydrating Mask",
+          "product5": "BosleyMD Hair Regrowth Treatment",
+          "product6": "Aveda Be Curly Curl Enhancer"
+        },
+        "affiliateLink": "Link 7"
+      },
+      {
+        "question": "Hair Type",
+        "answer": "Coily",
+        "hairLength": "Short",
+        "texture": "Thick",
+        "scalpCondition": "Normal",
+        "stylingGoal": "Shine",
+        "hairConcerns": "Dandruff",
+        "productPreference": "Natural",
+        "products": {
+          "product1": "SheaMoisture Curl Enhancing Smoothie",
+          "product2": "Briogeo Scalp Revival Charcoal Shampoo",
+          "product3": "DevaCurl No-Poo Decadence",
+          "product4": "As I Am Leave-In Conditioner",
+          "product5": "Pura D'or Scalp Therapy Shampoo",
+          "product6": "Ouidad Climate Control Heat & Humidity Gel"
+        },
+        "affiliateLink": "Link 8"
+      }
+    ]
+  }
+  

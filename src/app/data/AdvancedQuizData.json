@@ -1,0 +1,130 @@
+{
+    "quizTitle": "Advanced Quiz",
+    "purpose": "Dive deep into hair styling preferences, hair care routines, and concerns about hair loss to offer tailored product recommendations.",
+    "tagline": "Get personalized recommendations to perfect your style and care for your hair.",
+    "numberOfQuestions": 15,
+    "questions": [
+      {
+        "question": "What is your natural hair length?",
+        "options": ["Short (above the ears)", "Medium (chin-length)", "Long (shoulder-length or longer)"]
+      },
+      {
+        "question": "How would you describe your hair texture?",
+        "options": ["Fine", "Medium", "Thick"]
+      },
+      {
+        "question": "Do you have any concerns about hair thinning or balding?",
+        "options": [
+          "Yes, I’m currently experiencing it",
+          "I’m starting to notice some thinning",
+          "I want to prevent future hair loss",
+          "No, I’m not concerned about it"
+        ]
+      },
+      {
+        "question": "What’s your primary styling goal?",
+        "options": [
+          "Increase volume and thickness",
+          "Achieve a textured/messy look",
+          "Keep hair in place (strong hold)",
+          "Add shine and smoothness"
+        ]
+      },
+      {
+        "question": "Which hairstyles do you usually go for?",
+        "options": [
+          "Pompadour or quiff",
+          "Textured and messy",
+          "Sleek and straight",
+          "Natural waves/curls"
+        ]
+      },
+      {
+        "question": "Which styling products do you regularly use?",
+        "options": [
+          "Hair Cream",
+          "Hair Powder",
+          "Salt Spray",
+          "Pomade/Gel",
+          "Leave-in Conditioner",
+          "None, I’m looking for something new"
+        ]
+      },
+      {
+        "question": "How often do you wash your hair?",
+        "options": [
+          "Daily",
+          "Every other day",
+          "2-3 times a week",
+          "Once a week or less"
+        ]
+      },
+      {
+        "question": "How often do you style your hair with heat tools?",
+        "options": [
+          "Never",
+          "Rarely (special occasions)",
+          "Weekly",
+          "Daily"
+        ]
+      },
+      {
+        "question": "Do you prefer natural or chemical-based products?",
+        "options": [
+          "Natural/Organic ingredients",
+          "Chemical-based for stronger results",
+          "No preference, as long as it works"
+        ]
+      },
+      {
+        "question": "Would you like to receive recommendations for hair loss prevention or regrowth products?",
+        "options": ["Yes, I’m interested", "No, not interested"]
+      },
+      {
+        "question": "What’s your main concern when it comes to hair care?",
+        "options": [
+          "Dryness",
+          "Oily scalp",
+          "Dandruff",
+          "Frizz",
+          "None of the above"
+        ]
+      },
+      {
+        "question": "Do you color or dye your hair?",
+        "options": [
+          "Yes, regularly",
+          "Yes, occasionally",
+          "No, never"
+        ]
+      },
+      {
+        "question": "Do you experience any hair breakage or split ends?",
+        "options": [
+          "Yes, a lot",
+          "Sometimes",
+          "Rarely",
+          "No, never"
+        ]
+      },
+      {
+        "question": "How much time do you spend styling your hair daily?",
+        "options": [
+          "Less than 5 minutes",
+          "5-15 minutes",
+          "15-30 minutes",
+          "More than 30 minutes"
+        ]
+      },
+      {
+        "question": "What type of styling tools do you use most often?",
+        "options": [
+          "Blow dryer",
+          "Flat iron/straightener",
+          "Curling iron",
+          "None"
+        ]
+      }
+    ]
+  }
+  
