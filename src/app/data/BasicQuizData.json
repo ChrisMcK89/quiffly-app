@@ -1,0 +1,44 @@
+{
+    "quizTitle": "Quick Quiz",
+    "purpose": "Provide fast, essential recommendations focused on styling needs and balding concerns.",
+    "tagline": "Find the perfect styling products in just a few clicks.",
+    "numberOfQuestions": 5,
+    "questions": [
+      {
+        "question": "What is your hair type?",
+        "options": ["Straight", "Wavy", "Curly", "Coily"]
+      },
+      {
+        "question": "How would you describe your scalp condition?",
+        "options": ["Oily", "Dry", "Normal", "Sensitive"]
+      },
+      {
+        "question": "What’s your main styling goal?",
+        "options": [
+          "Increase volume and thickness",
+          "Achieve a textured look",
+          "Keep hair in place (strong hold)",
+          "Add shine and smoothness"
+        ]
+      },
+      {
+        "question": "Do you have concerns about hair thinning or balding?",
+        "options": [
+          "Yes, I’m experiencing thinning/balding",
+          "Not yet, but I want to prevent it",
+          "No, I’m not concerned about it"
+        ]
+      },
+      {
+        "question": "Which styling product are you looking for?",
+        "options": [
+          "Hair Cream",
+          "Hair Powder",
+          "Salt Spray",
+          "Pomade/Gel",
+          "Leave-in Conditioner"
+        ]
+      }
+    ]
+  }
+  
